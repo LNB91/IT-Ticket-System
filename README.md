@@ -28,7 +28,8 @@ A modern, front-end prototype for submitting and managing IT support tickets. Th
 ## 📸 Screenshots
 
 | Login & Greeting | Ticket Form |
-|------------------|-------------|
-| ![Login Screenshot](screenshots/it-login.png) | ![Ticket Form Screenshot](screenshots/it-form.png) |
+![Login Screenshot](screenshots/it-login.png)
+![Ticket Form Screenshot](screenshots/it-form.png)
+
 
 
