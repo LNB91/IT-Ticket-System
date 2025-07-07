@@ -1,4 +1,4 @@
-# IT Support Ticket System
+
 # 🖥️ IT Support Ticket System
 
 A modern, front-end prototype for submitting and managing IT support tickets. This project simulates an internal company tool where employees can log technical issues, and the system dynamically adjusts to the type of support needed. Built with HTML, CSS, and jQuery, the design emphasizes simplicity, validation, and responsive behavior.
