@@ -31,14 +31,4 @@ A modern, front-end prototype for submitting and managing IT support tickets. Th
 |------------------|-------------|
 | ![Login Screenshot](screenshots/it-login.png) | ![Ticket Form Screenshot](screenshots/it-form.png) |
 
----
-
-## 🚀 Getting Started
-
-To run this project locally:
-
-```bash
-git clone https://github.com/yourusername/it-ticket-system.git
-cd it-ticket-system
-open index.html  # or simply double-click the file
 
